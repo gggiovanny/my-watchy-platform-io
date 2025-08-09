@@ -1,0 +1,1 @@
+Just me trying to build the firmware for a chinese Watchy V2 that uses a ESP32-PICO-D4 using platformio
